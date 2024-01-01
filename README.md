@@ -1,32 +1,27 @@
-# Space Defender Game
+# Game Portfolio
 
-#### Video Demo: [YouTube Link](https://www.youtube.com/watch?v=QxxZ0iVZQEo)
+This repository contains a collection of games I've developed as part of my portfolio.
 
-#### Description:
-This Space Defender game, developed using Lua and the Love2D framework, offers an engaging 2D shooting experience. Players take control of a spaceship tasked with shooting down enemy aircraft while navigating through obstacles to achieve victory. The game provides an immersive experience with sound effects, collision detection, and distinct game status screens.
+## Games
 
-### Gameplay Instructions:
-- Use 'W', 'A', 'S', 'D' keys to maneuver the spaceship across the screen.
-- Press the 'Space' key to launch projectiles and destroy enemy aircraft.
-- The objective is to eliminate a predefined number of enemy aircraft to secure victory.
+### 1. XOXO Game (Tic Tac Toe)
+Tic-Tac-Toe, also known as Xs and Os, is a classic paper-and-pencil game for two players. The game is played on a 3x3 grid where players take turns marking Xs and Os in empty squares. The objective is to get three of their marks in a row, column, or diagonal.
 
-### Key Features:
-- **Player-Controlled Spaceship:** Navigate and control a spaceship to engage enemies.
-- **Dynamic Enemy Spawning:** Enemy aircraft continuously spawn and descend on-screen.
-- **Collision Detection:** Avoid collisions between the player's spaceship, enemy aircraft, and projectiles.
-- **Immersive Audio:** Engage with the game's background music and various sound effects for an immersive experience.
-- **Game Status Screens:** Experience game-over and victory screens to track progress and outcomes.
+#### How to Play:
 
-### Sprites Attribution:
-The game utilizes sprites obtained from online sources for the current visuals. Future updates will aim to enhance the visual elements by incorporating custom or improved sprites to enrich the gaming experience.
+- The game starts with an empty 3x3 grid.
+- Player 1 places an 'X' in any empty square.
+- Player 2 then places an 'O' in any remaining empty square.
+- Players take turns until one player gets three of their marks in a row, column, or diagonal, or until the grid is full (resulting in a draw).
 
-### How to Run the Game:
-1. **Install Love2D:** Ensure Love2D is installed on your system.
-2. **Clone the Repository:** Clone the project repository to your local machine.
-3. **Run the Game:** Launch the game by either dragging the project folder onto the Love2D executable or by using the command `love /path/to/project` in your terminal.
+The game is simple yet strategic, often used as a learning tool for beginner game developers due to its straightforward rules and mechanics.
 
-### Future Improvements:
-Subsequent updates to this project will focus on enhancing the visual appeal by incorporating custom-designed or improved sprites, elevating the overall aesthetics and immersion within the game.
+## Contributions
 
-### Further Customization:
-Explore and modify the provided Lua code to enhance or personalize the game mechanics, graphics, or sound effects according to your preferences and skills. Feel free to experiment and make this Space Defender game your own!
+I welcome contributions! If you'd like to suggest improvements to the games or even add new games to the portfolio, feel free to open a pull request.
+
+## Contact
+
+If you'd like to get in touch or learn more about my work, you can find me at leckalmeida@gmail.com
+
+Thank you for checking out my game portfolio!
